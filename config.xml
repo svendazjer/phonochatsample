@@ -4,10 +4,10 @@
     id        = "com.intus.phonochatsample"
     version   = "1.0.0">
 
-<name>Medfamiliar</name>
+<name>PhonoChatSample</name>
 
 <description>
-Consorcio Universitario de Salud y Medicina Familiar
+
 </description>
 
 <author href="http://intus.cl" email="svanrinskreiberg@gmail.com">
